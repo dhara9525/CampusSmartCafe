@@ -1,0 +1,107 @@
+Orange Juice,4,100,1,1,1,1
+Pineapple Juice,2,100,1,1,1,1
+Kale Smoothie,4,100,1,1,1,1
+Mix berry Juice,3,130,1,1,1,1
+Orange carrot Smoothie,4,100,1,1,1,1
+Mango Shake,5,105,1,1,1,1
+Apple Juice,4,100,1,1,1,1
+Kale Spinach Banana Smoothie,6,300,1,1,1,1
+Mango Orange Smoothie,5,250,1,1,1,1
+Cranberry Juice,3,130,1,1,1,1
+Cucumber Lemon Mint Juice,3,100,1,1,1,1
+Almond Lychee Melon Smoothie,4,300,1,1,1,1
+Custard Apple Smoothie,4,250,1,1,1,1
+Mango Banana Smoothie,3,200,1,1,1,1
+Pineapple Lime Cooler,2,100,1,1,1,1
+Black Current Juice,3,140,1,1,1,1
+Energy Bar,3,350,2,1,0,0
+Pringles crisps,2,200,2,1,0,0
+Red Bull,3,365,2,1,0,0
+Lays cream and onion,2,200,2,1,0,0
+Doritos Ranch,1,130,2,1,0,0
+Stacy Chips,1,125,2,1,0,0
+Sun Chips,1,130,2,1,0,0
+DairyMilk chocolate,2,135,2,1,1,0
+Twix chocolate,1,75,2,1,1,0
+Dove Chocolate,2,126,2,1,1,0
+Kirkland Water bottle,1,20,2,1,1,1
+Fanta,2,230,2,1,1,0
+Mountain Dew,1,200,2,1,1,0
+Sprite,1,433,2,1,1,0
+Philz Special Tea,2,322,3,1,1,1
+Philz Special Coffee,3,233,3,1,1,1
+Sandwhich,2,600,3,0,0,0
+Mai Tai,4,300,3,1,1,1
+Mint Mohito,5,250,3,1,1,1
+Cookies,2,120,3,1,1,0
+Muffin,2,300,3,0,1,0
+Vegan Muffin,2,250,3,1,1,0
+Iced Coffee,2,145,3,1,1,0
+Thai tea,2,100,3,1,1,0
+Boba tea,2,120,3,1,1,0
+Cocacola,1,150,4,1,1,0
+Cocacola Vanilla,1,150,4,1,1,0
+Cocacola life,2,185,4,1,1,0
+Cocacola Citra,2,200,4,1,1,0
+Diet Coke with Lime,2,60,4,1,1,1
+Raspberry Diet Coke,2,70,4,1,1,1
+Diet Coke,2,50,4,1,1,1
+Cherry Coke,2,150,4,1,1,0
+Orange Coke,2,120,4,1,1,0
+Cherry Vanilla Coke,2,130,4,1,1,0
+Hot Chocolate,2,200,5,1,1,0
+Chai Latte,3,350,5,1,1,0
+Strawberry Lemonade,2,200,5,1,1,0
+Green Tea Creme Frappuccino,4,350,5,1,1,0
+Brewed Coffee,1,200,5,1,1,0
+Caramel Frappuccino,4,350,5,1,1,0
+Caramel Waffle Cone Frappuccino,4,350,5,1,1,0
+Java Chip Frappuccino,4,300,5,1,1,0
+Cheese Danish,3,450,5,1,1,0
+Cranberry Orange Scone,2,250,5,1,1,0
+Double Chocolate Brownie,3,220,5,1,1,0
+Pecan Tart(Seasonal Offering),5,350,5,1,1,0
+Raspberry Swirl Pound Cake,6,650,5,1,1,0
+Orange Chicken,15,500,6,0,0,0
+Noodles,15,400,6,0,0,0
+Spring Roll,8,250,6,0,0,0
+Kung Pao Chicken,12,500,6,0,0,0
+Honey Walnut Shrimp,16,600,6,0,0,0
+Beef Tofu,11,300,6,0,0,0
+Hot and sour soup,10,100,6,0,0,0
+Panda express special,20,600,6,0,0,0
+Fortune Cookie,1,50,6,1,0,0
+Cheese Cake,10,400,6,0,0,0
+Cheese Pizza,10,700,7,1,0,0
+Chicago Style Pizaa,10,800,7,0,0,0
+Thin crust Pizza,10,500,7,1,0,0
+Peperoni Pizza,10,790,7,0,0,0
+Veggie Delight Pizza,10,550,7,1,0,0
+Onion Tomato Pizza,7,300,7,1,0,0
+Three Cheese Pizza,12,700,7,1,0,0
+Pasta,15,600,7,0,0,0
+Garlic Bread,10,150,7,1,0,0
+Caeser Salad,5,100,7,1,0,0
+Veggie Sandwich,10,150,8,1,0,0
+Salad,5,100,8,1,0,0
+Ham sandwich,6,300,8,0,0,0
+Pepsi,2,150,8,1,0,0
+Miss Vickie's Chips,2,120,8,1,0,0
+Sun Chips,2,100,8,1,0,0
+Veggie Delight Salad,2,125,8,1,0,0
+Special Subway Salad,3,135,8,1,0,0
+Lays Salted Chips,2,200,8,1,0,0
+Chicken Sandwich,5,360,8,0,0,0
+Chicken Burrito,6,450,9,0,0,0
+Chicken Enchilada,7,500,9,0,0,0
+Chips and Salsa,7,150,9,1,0,0
+Shrimp Burrito,8,450,9,0,0,0
+Shrimp Enchilada,9,500,9,0,0,0
+Veggie Burrito,8,350,9,1,0,0
+Veggie Enchilada,9,400,9,1,0,0
+Salmon Burrito,5,650,9,0,0,0
+Salmon Enchilada,6,700,9,0,0,0
+Cafe De Amigo Special,7,900,9,0,0,0
+Sopa Azteca,6,200,9,0,0,0
+Sopa de tortilla,6,300,9,0,0,0
+Sopa de pollo,6,150,9,0,0,0
